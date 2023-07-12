@@ -30,8 +30,9 @@ React single-player trivia application where users can answer clues, track score
 ---
 
 #### Get in Touch 📬
-- [LinkedIn](https://www.linkedin.com/in/bmaspin42/)
-- [Dev](https://dev.to/baspin94)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Bianca Aspin's LinkedIn Profile" height='50px'/>](https://www.linkedin.com/in/bmaspin42/)
+[<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Bianca Aspin's Dev Profile" height='50px'/>](https://dev.to/baspin94)
 
 ---
 
