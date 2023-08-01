@@ -35,6 +35,14 @@ React single-player trivia application where users can answer clues, track score
 
 ---
 
+#### Currently Learning 📚
+- [Data Structures and Algorithms](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- [Amazon Web Services](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/)
+- [TypeScript](https://www.codecademy.com/learn/learn-typescript)
+- [Responsive Design](https://web.dev/learn/design/)
+
+---
+
 #### Get in Touch 📬
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Bianca Aspin's LinkedIn Profile" height='50px'/>](https://www.linkedin.com/in/bmaspin42/)
