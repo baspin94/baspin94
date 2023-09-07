@@ -36,6 +36,7 @@ React single-player trivia application where users can answer clues, track score
 ---
 
 #### Currently Learning 📚
+- [Test-Driven Development](https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd/)
 - [Data Structures and Algorithms](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - [Amazon Web Services](https://www.coursera.org/learn/aws-cloud-practitioner-essentials/)
 - [TypeScript](https://www.codecademy.com/learn/learn-typescript)
