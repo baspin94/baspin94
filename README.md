@@ -1,9 +1,13 @@
-### Hi there, I'm Bianca! 👋
+### Hi there, I'm Bianca Aspin! 👋
 *You can also call me Bee!* 🐝
 
 ---
 
-I'm a full-stack software engineer and a creative, analytical thinker who has experience building applications using JavaScript, React, Python, Flask, and SQL. My detail-oriented approach lends itself well to catching bugs and parsing through data, while my skills in cross-functional collaboration and communication keep my team organized and on the same page. After seven years of working with students with disabilities, I learned to code to help companies create engaging and accessible applications for users.
+I'm a full-stack software engineer and a creative, analytical thinker with experience building applications using JavaScript, React, Python, Flask, and SQL. My detail-oriented approach lends itself well to debugging and parsing data, and my skills in cross-functional collaboration and communication keep my team organized. 
+
+Over seven of years working with college students with disabilities to help them navigate inaccessible materials. I learned how widespread accessibility and general usability issues are in the apps we often take for granted. This inspired me to learn more about what happens “under the hood” that makes these apps work and how to make them more inclusive.
+
+Now, I’m excited to combine these insights with my software engineering skillset to help companies build apps with users as their central focus, creating experiences that are engaging, intuitive, and accessible for everyone.
 
 ---
 
