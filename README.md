@@ -48,6 +48,12 @@ React single-player trivia application where users can answer clues, track score
 
 ---
 
+#### My GitHub Streaks 🔥
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=baspin94&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+---
+
 #### Get in Touch 📬
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Bianca Aspin's LinkedIn Profile" height='50px'/>](https://www.linkedin.com/in/bmaspin42/)
